@@ -1,13 +1,8 @@
 [package]
-name = "rs_design_patterns"
+name = "tree_handler"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-
-[workspace]
-members = [
-    "./package/tree_handler"
-]
